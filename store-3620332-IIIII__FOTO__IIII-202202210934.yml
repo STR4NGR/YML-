@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-02-21 09:34">
+	<shop>
+		<name>ДЛЯ ТОМЫ</name>
+		<company>ТЕСТ 300</company>
+		<url>https://www.xn--80abwh1as1b.xn--80aswg</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.0</version>
+		<categories>
+			<category id="269234708281">&lt;[Д.Р всё_]&gt;</category>
+			<category id="930726385441">&lt;[__К.Р_всё**]&gt;</category>
+			<category id="563886344531">&lt;[ 3Х330 всё ]&gt;</category>
+			<category id="209386204281">&lt;[ 3Х330_ДЛИНН_рук_ ]&gt;</category>
+			<category id="799622954151">&lt;[ 3Х330*КОР*рук**]&gt;</category>
+			<category id="170993737231">&lt;[ ГАЛСТУКИ И БАБОЧКИ ]&gt;</category>
+			<category id="856407290821">&lt;[ ГАЛСТУКИ+галстуки ]&gt;</category>
+			<category id="294679330881">&lt;[ ГАЛСТУКИ+муж.бабочки ]&gt;</category>
+			<category id="949100083411">&lt;[ ГАЛСТУКИ+дет.бабочки ]&gt;</category>
+			<category id="170995622741">&lt;[ РЕМНИ ]&gt;</category>
+			<category id="794970064591">&lt;[ ФУТБОЛКИ ]&gt;</category>
+			<category id="409872355081">&lt;[ ПЛАВКИ И БОКСЕРЫ ]&gt;</category>
+			<category id="662131240991">ИИИИИ___ФОТО__ ИИИИ</category>
+			<category id="670132164391">All</category>
+			<category id="687078803111">Рубашки</category>
+			<category id="767895914491">Трусы</category>
+		</categories>
+		<offers>
+		<offer id="158169478691" group_id="806308573361">
+			<name>Рубашка В 176 - 46-48 р-р - до 92 - S/38-39</name>
+			<vendor>Bendu</vendor>
+			<description>
+<![CDATA[
+Рубашка с длинным рукавом.<br />Приталенный фасон (SLIM FIT).
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6438-3463-4433-b164-333365613334/__176-0.jpg</picture>
+			<url>https://www.xn--80abwh1as1b.xn--80aswg/tproduct/279886485-806308573361-rubashka-v-176?editionuid=158169478691</url>
+			<price>820.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>269234708281</categoryId>
+			<param name="Основной цвет">синий и голубой</param>
+			<param name="Арт:">В 176</param>
+			<param name="RUS размер по плечам">46-48 р-р</param>
+			<param name="Обхват талии">до 92</param>
+			<param name="Размер EURO / Ворот">S/38-39</param>
+		</offer>
+		<offer id="823848649821" group_id="806308573361">
+			<name>Рубашка В 176 - 48-50 р-р - до 96 - M/39-40</name>
+			<vendor>Bendu</vendor>
+			<description>
+<![CDATA[
+Рубашка с длинным рукавом.<br />Приталенный фасон (SLIM FIT).
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6438-3463-4433-b164-333365613334/__176-0.jpg</picture>
+			<url>https://www.xn--80abwh1as1b.xn--80aswg/tproduct/279886485-806308573361-rubashka-v-176?editionuid=823848649821</url>
+			<price>820.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>269234708281</categoryId>
+			<param name="Основной цвет">синий и голубой</param>
+			<param name="Арт:">В 176</param>
+			<param name="RUS размер по плечам">48-50 р-р</param>
+			<param name="Обхват талии">до 96</param>
+			<param name="Размер EURO / Ворот">M/39-40</param>
+		</offer>
+		<offer id="710824832251" group_id="695911951531">
+			<name>Рубашка В 497 - 46-48 р-р - до 96 - S/37-38</name>
+			<vendor>Westtiger</vendor>
+			<description>
+<![CDATA[
+<ul><li>Рукав: длинный.</li><li>Фасон: приталенный.</li><li>Ткань: гладь.</li><li>Цвет: однотонный черный.</li><li>Количество карманов: без карманов.</li><li>Пуговицы/кнопки: пуговицы в тон ткани.</li><li>Вид манжет: на пуговицах.</li></ul>
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6264-3432-4436-a231-316461633163/__497-0.jpg</picture>
+			<url>https://www.xn--80abwh1as1b.xn--80aswg/tproduct/337036791-695911951531-rubashka-v-497?editionuid=710824832251</url>
+			<price>1480.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>269234708281</categoryId>
+			<param name="Основной цвет">чёрный</param>
+			<param name="Арт:">В 497</param>
+			<param name="RUS размер по плечам">46-48 р-р</param>
+			<param name="Обхват талии">до 96</param>
+			<param name="Размер EURO / Ворот">S/37-38</param>
+		</offer>
+		<offer id="560597446461" group_id="695911951531">
+			<name>Рубашка В 497 - 50-52 р-р - до 108 - 2XL/41-42</name>
+			<vendor>Westtiger</vendor>
+			<description>
+<![CDATA[
+<ul><li>Рукав: длинный.</li><li>Фасон: приталенный.</li><li>Ткань: гладь.</li><li>Цвет: однотонный черный.</li><li>Количество карманов: без карманов.</li><li>Пуговицы/кнопки: пуговицы в тон ткани.</li><li>Вид манжет: на пуговицах.</li></ul>
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6264-3432-4436-a231-316461633163/__497-0.jpg</picture>
+			<url>https://www.xn--80abwh1as1b.xn--80aswg/tproduct/337036791-695911951531-rubashka-v-497?editionuid=560597446461</url>
+			<price>1480.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>269234708281</categoryId>
+			<param name="Основной цвет">чёрный</param>
+			<param name="Арт:">В 497</param>
+			<param name="RUS размер по плечам">50-52 р-р</param>
+			<param name="Обхват талии">до 108</param>
+			<param name="Размер EURO / Ворот">2XL/41-42</param>
+		</offer>
+		<offer id="763492177841" group_id="695911951531">
+			<name>Рубашка В 497 - 52 р-р - до 112 - 3XL/42-43//</name>
+			<vendor>Westtiger</vendor>
+			<description>
+<![CDATA[
+<ul><li>Рукав: длинный.</li><li>Фасон: приталенный.</li><li>Ткань: гладь.</li><li>Цвет: однотонный черный.</li><li>Количество карманов: без карманов.</li><li>Пуговицы/кнопки: пуговицы в тон ткани.</li><li>Вид манжет: на пуговицах.</li></ul>
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6264-3432-4436-a231-316461633163/__497-0.jpg</picture>
+			<url>https://www.xn--80abwh1as1b.xn--80aswg/tproduct/337036791-695911951531-rubashka-v-497?editionuid=763492177841</url>
+			<price>930.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>269234708281</categoryId>
+			<param name="Основной цвет">чёрный</param>
+			<param name="Арт:">В 497</param>
+			<param name="RUS размер по плечам">52 р-р</param>
+			<param name="Обхват талии">до 112</param>
+			<param name="Размер EURO / Ворот">3XL/42-43//</param>
+		</offer>
+		</offers>
+	</shop>
+</yml_catalog>
